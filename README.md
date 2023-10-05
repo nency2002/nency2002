@@ -1,6 +1,7 @@
 ### Hi 👋, there! I'm Kotadiya Nency
-
-<img src="https://camo.githubusercontent.com/40c6c5d9ac1c62d554de0b9b7be4beadb207816b0e42f8dc2fed05b9e7561f70/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966" width="400" height="500"/>
+<center>
+<img src="https://camo.githubusercontent.com/40c6c5d9ac1c62d554de0b9b7be4beadb207816b0e42f8dc2fed05b9e7561f70/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966" width="400" />
+</center>
 
 # 💫 About Me:
 🔭 I’m currently working as Back-and-Developer at <br>🌱 I’m currently learning Node.js<br>📫 How to reach me kotadiyanency7@gmail.com<br>⚡Fun fact I think I Love Coading<br><br>
